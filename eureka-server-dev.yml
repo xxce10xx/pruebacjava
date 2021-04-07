@@ -5,6 +5,6 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
 
-  instance:
-    metadata-map:
-      zone: '{cipher}ff35b43ca0b240ce86521350f10c6033541053c5a9ec961837f9c9ef1f13fc81'
+  #instance:
+    #metadata-map:
+      #zone: '{cipher}ff35b43ca0b240ce86521350f10c6033541053c5a9ec961837f9c9ef1f13fc81'
