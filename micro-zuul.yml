@@ -4,7 +4,7 @@ zuul:
       path: /catalogo/**
       service-id: servicio.catalogo
     compra:
-      path: /compra/**
+      path: /cesta/**
       service-id: servicio.cesta
 eureka:
   client:
