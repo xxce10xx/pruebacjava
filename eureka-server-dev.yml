@@ -7,4 +7,4 @@ eureka:
 
   instance:
     metadata-map:
-      zone: '{cipher}6996425a0261bbc4c7fd8ab08e40be3c2590f0688b339126b92cafedabbb9eaef722fd3de174ebfe0e445b34c9cc965b'
+      zone: '{cipher}1398f2c88272d846a8731e403c0131a2f33feca52ea7d267f86c3b8c9f3e2aec'
